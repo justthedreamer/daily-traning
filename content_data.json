@@ -1,6 +1,5 @@
 {
     "csharp":{
-        "alias": "C#",
         "learning_content": {
             "algorithms" : {
                 "binary-search" : "https://github.com"
@@ -11,7 +10,6 @@
         }
     },
     "typescript":{
-        "alias": "TS",
         "learning_content":{
             "algorithms":{
                 "binary-search" : "https://github.com"
