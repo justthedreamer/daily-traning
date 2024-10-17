@@ -1,0 +1,13 @@
+{
+    "csharp":{
+        "alias": "C#",
+        "learning_content": {
+            "algorithms" : {
+                "binary-search" : "https://github.com"
+            },
+            "design_patternsł":{
+                "factory pattern" : "https://github.com"
+            }
+        }
+    }
+}
