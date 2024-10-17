@@ -5,8 +5,16 @@
             "algorithms" : {
                 "binary-search" : "https://github.com"
             },
-            "design_patternsł":{
+            "design_patterns":{
                 "factory pattern" : "https://github.com"
+            }
+        }
+    },
+    "typescript":{
+        "alias": "TS",
+        "learning_content":{
+            "algorithms":{
+                "binary-search" : "https://github.com"
             }
         }
     }
